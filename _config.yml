@@ -1,0 +1,12 @@
+title: WTD Learning Material
+description: All learning material to support our learning community
+theme: just-the-docs
+
+url: https://github.com/whiletrue-do/WTD-Projects
+
+aux_links:
+  WTD Learning Github: https://github.com/whiletrue-do/WTD-Projects
+
+logo: "/assets/img/logo.png"
+
+favicon_ico: "/assets/img/favicon.ico"
