@@ -6,10 +6,6 @@ has_children: true
 nav_order: 1
 ---
 
-Absolutely, here's an introductory guide that goes beyond the basics covered on the Raspberry Pi website. This guide aims to delve into configurations and setups that can enhance your Raspberry Pi experience.
-
----
-
 # Advanced Raspberry Pi Configuration
 
 ## Introduction
