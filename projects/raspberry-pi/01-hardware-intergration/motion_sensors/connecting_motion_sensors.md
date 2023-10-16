@@ -6,14 +6,6 @@ grand_parent: Hardware Integration
 nav_order: 1
 ---
 
----
-layout: default
-title: linux & Mac
-parent: Installing git
-grand_parent: Setting up your environment
-nav_order: 1
----
-
 # Connecting motion sensors
 
 Motion sensors can be extremely useful and with the right Pi project you can make a relatively inexpensive home monitoring and security systems.
