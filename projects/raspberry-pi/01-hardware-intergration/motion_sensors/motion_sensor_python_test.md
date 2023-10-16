@@ -3,7 +3,6 @@ title: Testing Motion Controller
 layout: default
 parent: Motion Sensors
 grand_parent: Hardware Integration
-has_children: true
 nav_order: 2
 ---
 

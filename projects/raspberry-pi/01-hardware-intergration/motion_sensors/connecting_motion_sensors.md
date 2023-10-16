@@ -3,7 +3,14 @@ title: Connecting Motion Sensors
 layout: default
 parent: Motion Sensors
 grand_parent: Hardware Integration
-has_children: true
+nav_order: 1
+---
+
+---
+layout: default
+title: linux & Mac
+parent: Installing git
+grand_parent: Setting up your environment
 nav_order: 1
 ---
 
