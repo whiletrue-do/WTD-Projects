@@ -1,8 +1,8 @@
 ---
 title: Testing Motion Controller
 layout: default
-parent: Motion Sensors
-grand_parent: Hardware Integration
+parent: Hardware Integration
+grand_parent: Raspberry pi 
 nav_order: 2
 ---
 
