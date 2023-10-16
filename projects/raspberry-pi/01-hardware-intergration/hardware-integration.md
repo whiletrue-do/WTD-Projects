@@ -1,7 +1,6 @@
 ---
 title: Hardware Integration
 layout: default
-parent: Raspberry pi 
 has_children: true
 nav_order: 2
 ---
