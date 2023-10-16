@@ -14,8 +14,8 @@ Various scripts for different Pi's i've used are below.
 
 ## Python script for using a Raspberry Pi 3/4  
 
-If you have cloned this repository you'll find the
-[motion_sensor_test_RPi_3_4.py](./motion_sensor_test_RPi_3_4.py) in this `motion_sensors` folder.
+click the following link to download the python script to test a motion controller.
+[motion_sensor_test_RPi_3_4.py](./motion_sensor_test_RPi_3_4.py).
 
 The code is below:
 
