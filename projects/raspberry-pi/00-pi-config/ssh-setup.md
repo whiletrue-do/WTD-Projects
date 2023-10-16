@@ -58,6 +58,8 @@ The default credentials for Raspberry Pi are:
 - Username: `pi`
 - Password: `raspberry`
 
+**IMPORTANT NOTE** -> If you had changed the name or password during your Pi setup ensure use the username you selected.
+
 To connect, use the following command:
 
 ```bash
