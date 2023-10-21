@@ -28,7 +28,7 @@ Raspberry Pi's are fantastic for learning about hardware, programming, and all s
 This guide assumes you have a basic setup ready to go. Specifically:
 
 - **Operating System**: You're using Linux or Mac. (Windows users, we haven't forgotten you—stay tuned for updates!)
-- **Raspberry Pi Setup**: You've installed a desktop server like Raspian (we're using the Bullseye version at the time of writing) on your Raspberry Pi. This [Raspberry pi getting started guide](https://www.raspberrypi.com/documentation/computers/getting-started.html){:target="_blank"} is more than sufficient to get you started.
+- **Raspberry Pi Setup**: You've installed a desktop server like Raspian (we're using the Bullseye version at the time of writing) on your Raspberry Pi. This <a href="https://www.raspberrypi.com/documentation/computers/getting-started.html" target="_blank">Raspberry pi getting started guide</a> is more than sufficient to get you started.
 - **Internet Connection**: You've connected your Raspberry Pi to the internet, either via WiFi or Ethernet.
 - **Router Info**: While the guide aims to be as generic as possible regarding routers, it's worth noting that an ASUS router was used for the examples here.
 
